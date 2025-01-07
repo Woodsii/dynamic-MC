@@ -19,6 +19,7 @@
     "start": "node src/app.js"
   },
   "dependencies": {
-    "mineflayer": "^4.23.0"
+    "mineflayer": "^4.0.0",
+    "prismarine-viewer": "^1.29.0"
   }
 }
