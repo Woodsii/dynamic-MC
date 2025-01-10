@@ -19,7 +19,8 @@
     "start": "node src/app.js"
   },
   "dependencies": {
-    "mineflayer": "^4.0.0",
+    "minecraft-data": "^3.83.1",
+    "mineflayer": "^4.25.0",
     "prismarine-viewer": "^1.29.0"
   }
 }
